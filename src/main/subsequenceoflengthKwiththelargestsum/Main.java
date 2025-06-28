@@ -4,6 +4,12 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * First we sorted elements.
+ * Then selected higher ones and counted them by map.
+ * Then got from queue, checked count and if count is available put the new array.
+ */
+
 public class Main {
     public static void main(String[] args) {
         MySolution mySolution = new MySolution();
